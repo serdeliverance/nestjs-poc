@@ -1,1 +1,5 @@
-# nestjs-poc
+# Nestjs poc
+
+Learning Nestjs
+
+## Notes
